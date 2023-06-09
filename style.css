@@ -5,7 +5,7 @@ html, body, style {
 }
 
 h1,h2{
-  font-family:'Brush Script MT', cursive;
+  font-family:sans-serif;
   font-size: 80px;
   color: #d6d6d6;
   text-align:left; 
