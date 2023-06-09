@@ -16,3 +16,12 @@ h1,h2{
   animation-timing-function: linear; 
 }
 
+p{
+  font-family: monospace;
+  font-size: 12px;
+  color: #ff4013;
+  text-align:center;  
+   
+  
+}
+
