@@ -1,6 +1,7 @@
-html, body {
+html, body, style {
   height: 100%;
   width: 100%;
+
 }
 
 h1,h2{
